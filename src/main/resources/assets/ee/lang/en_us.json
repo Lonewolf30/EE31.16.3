@@ -1,0 +1,27 @@
+{
+    "itemGroup.ee": "Equivilent Exchange",
+    
+    "block.ee.research_station": "Research Station",
+    "block.ee.block_chalk": "Chalk",
+    "block.ee.ash_infused_stone": "Ash Infused Stone",
+
+    "item.ee.stone_philosophers": "Philosophers Stone [WIP]",
+    "block.ee.empty_alchemy": "Chalk",
+    "item.ee.alchenomicon": "Alchenomicon",
+    
+    "misc.ee.owner-set": "You are now the owner of: %s",
+    
+    "ee.configuration.emcblacklist" : "EMC Blacklist",
+    
+    "ee.tooltip.belongTo": "This item belongs to: %s",
+    "ee.tooltip.emc.none": "No Exchange Energy value",
+    "ee.tooltip.emc.notlearnable" : "Not learnable",
+    "ee.tooltip.emc.single" : "Exchange Energy (Item): %s",
+    "ee.tooltip.emc.stack"  : "Exchange Energy (Stack of %s): %s",
+    "ee.tooltip.emc.mB"     : " - Exchange Energy (%smB of %S): %s",
+    "ee.tooltip.emc.container": " - Exchange Energy (Container): %s",
+    "ee.tooltip.learned": "You know how to transmute this",
+
+    "ee.gui.settings.shrink" : "<",
+    "ee.gui.settings.expand" : ">"
+}

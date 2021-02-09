@@ -1,0 +1,5 @@
+{
+	"loader": "forge:obj",
+	"model": "ee:models/block/research_station.obj",
+	"flip-v" : true
+}

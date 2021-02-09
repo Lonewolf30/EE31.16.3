@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "sss",
+    " i ",
+    "iii"
+  ],
+  "key": {
+    "s": {
+      "tag": "minecraft:wooden_slabs"
+    },
+    "i": {
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "result": {
+    "item": "ee:research_station"
+  }
+}
